@@ -1,3 +1,4 @@
 # Rock Paper Scissors game
 
-A simple game of rock paper scissors made using javascript, html and css.
+A simple game of Rock Paper Scissors made using JavaScript, HTML and CSS.
+
