@@ -1,6 +1,6 @@
 # Rock Paper Scissors game
 
-A simple game of Rock Paper Scissors made using JavaScript, HTML and CSS.
+A simple game of _**Rock Paper Scissors**_ made using JavaScript, HTML and CSS.
 
 To play the game, [click here!](https://shshwtkhr.github.io/rock-paper-scissors-game/).
 
