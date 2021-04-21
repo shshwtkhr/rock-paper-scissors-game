@@ -91,3 +91,19 @@ header > h1 {
   font-weight: bold;
   font-size: 20px;
 }
+
+
+.green-glow{
+  border: 4px solid #4dcc7d;
+  box-shadow: 0 0 10px #31b43a;
+}
+
+.red-glow{
+  border: 4px solid #fc121b;
+  box-shadow: 0 0 10px #d01115;
+}
+
+.blue-glow{
+  border: 4px solid #0069B9;
+  box-shadow: 0 0 10px #0069B9;
+}
